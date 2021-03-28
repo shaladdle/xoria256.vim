@@ -50,7 +50,7 @@ hi MatchParen   ctermfg=188 guifg=#dfdfdf ctermbg=68  guibg=#5f87df cterm=bold g
 " TODO
 " hi MoreMsg
 hi NonText      ctermfg=247 guifg=#9e9e9e ctermbg=233 guibg=#121212 cterm=bold gui=bold
-hi Pmenu        ctermfg=0   guifg=#000000 ctermbg=250 guibg=#bcbcbc
+hi Pmenu        ctermfg=252 guifg=#000000 ctermbg=236 guibg=#000000
 hi PmenuSel     ctermfg=255 guifg=#eeeeee ctermbg=243 guibg=#767676
 hi PmenuSbar                              ctermbg=252 guibg=#d0d0d0
 hi PmenuThumb   ctermfg=243 guifg=#767676
